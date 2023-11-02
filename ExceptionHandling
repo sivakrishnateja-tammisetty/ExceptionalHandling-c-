@@ -1,0 +1,15 @@
+.EXCEPTION:
+  .It is a runtime error.
+  .That distrub the prgm flow of execution.
+
+.EXCEPTION HANDLING ==> Exception handling is a mechanism,which handles an exception.
+
+.Exception handling goes through 3 keywords:
+    1.try ==> It is a keyword,it contains block of statements or code which are doubtfull or error generated.
+    2.throw ==> When error is occured in try block then throw a value with the help of throw keyword.
+    3.catch ==> It contains block of code which catch the error.
+
+.POSSIBLE CAUSES FOR ERRORS IN PROGRAM ==> syntax error , Logical error , Runtime/user error
+.syntax error ==> These are arise basically when we write syntax wrongly.(eg. spelling mistake or typing mistake,incorrect syntax)
+.Logical error ==> These are basically occurs when we fail to write logic.
+.Runtime/user error ==> These are basically occured at user side.
